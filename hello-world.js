@@ -1,2 +1,2 @@
 console.log("Olá Mundo!");
-console.log("Esse é meu primeiro exercício na Cubos Academy!!");
+console.log("Esse é minha primeira atividade na Cubos Academy!!");
